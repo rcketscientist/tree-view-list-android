@@ -8,9 +8,4 @@ android {
         minSdkVersion 3
         targetSdkVersion 3
     }
-
-    release {
-        runProguard false
-        proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
-    }
 }

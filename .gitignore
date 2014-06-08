@@ -1,1 +1,7 @@
 /build
+/src/main/bin
+/src/main/gen/pl/polidea/treeview
+/src/main/.classpath
+/src/main/.project
+/src/main/.settings/org.eclipse.jdt.core.prefs
+/src/main/project.properties
